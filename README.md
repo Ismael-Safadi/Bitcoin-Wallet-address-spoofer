@@ -7,7 +7,7 @@ This is simple tool Coded in python , to spoof copied Bitcoin Wallet addresses a
 
 Usage
 =
-- You have to chenge line 30 to your address 
+- You have to change line 30 to your address 
 - convert script to exe file using Pyinstaller
 - run it into background
 
